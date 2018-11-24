@@ -1,0 +1,52 @@
+.first {
+  width: 260px;
+  display: inline-block;
+}
+
+.second {
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+  padding-bottom: 22px;
+  margin-left: 70px;
+}
+
+.third  {
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 70px;
+}
+
+.fourth {
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: -20px;
+}
+
+.fifth { 
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 105px;
+}
+
+.sixth { 
+  width: 260px; 
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 65px;
+}
+
+.general {
+  width: 945px;
+  margin-top: 36px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headline {
+  text-align: center;
+  margin-top: 63px;
+  
+}
